@@ -1,5 +1,7 @@
 # Generic Metamodel
 
+![Generic Metamodel Hierarchy](/images/generic-metamodel.png)
+
 ## Overview
 
 The **Generic Metamodel** provides a common way to organize architecture concepts. It can be understood through three fundamental questions:
